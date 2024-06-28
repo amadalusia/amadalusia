@@ -7,7 +7,7 @@
 ---
 
 ```py
-class Amadal:
+class Amadalusia:
     def __init__(self) -> None:
         self.IN_DOUBT = False
         self.favourite_color = "\x1b[31;41m"
