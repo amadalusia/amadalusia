@@ -16,7 +16,7 @@ I don't want to talk about it. It was just plenty of strong mistakes from beginn
 
 Hey, I am Artur. I am an alfacinha (lisboner) with a fair bit of experience in English and Norwegian, and partially spanish.
 
-I live in Lisbon but I also visit the UK or Norway, 3 months per year.
+I live in Lisbon but I also visit the UK or Norway (like once in the past 8 years), 3 months per year.
 
 I am self taught in the art of Nix, Python, C++, Linux, and linguistics.
 
