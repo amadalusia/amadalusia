@@ -1,6 +1,6 @@
 <div align=center>
   <img align=left src="https://avatars.githubusercontent.com/u/77496597?v=4" width=72>
-  <h3>amadalusia</h3>
+  <h3>amadalusia - github contributions only on github. [see me on codeberg!](https://codeberg.org/amadaluzia)</h3>
   <h6>the portuguese dev</h6>
 </div>
 
